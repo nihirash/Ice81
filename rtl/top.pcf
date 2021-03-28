@@ -1,0 +1,6 @@
+
+set_io CLK      35
+
+set_io --warn-no-port tvout   46
+set_io ps_data 44
+set_io ps_clk 42
